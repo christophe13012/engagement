@@ -5,6 +5,8 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
+      <p>Pour toute question, merci de vous adresser à l'adresse suivante :</p>
+      <p>contact@bingofoot.com</p>
       <header className="App-header">
         <p>ENGAGEMENT DE CONFIDENTIALITÉ BINGOFOOT</p>
       </header>
@@ -71,9 +73,9 @@ function App() {
         données personnelles à la disposition de partenaires stratégiques
         travaillant avec nous pour la fourniture de produits et services, ou
         aidant Bingofoot à commercialiser ses produits auprès des clients. Les
-        données personnelles sont uniquement partagées par Bingofoot pour fournir
-        ou améliorer des produits, services et publicités ; elles ne sont pas
-        partagées avec des tiers à des fins marketing.{" "}
+        données personnelles sont uniquement partagées par Bingofoot pour
+        fournir ou améliorer des produits, services et publicités ; elles ne
+        sont pas partagées avec des tiers à des fins marketing.{" "}
         <h3>Protection des données personnelles</h3> Bingofoot prend la sécurité
         de vos données personnelles très au sérieux. Les services en ligne
         protègent vos données personnelles pendant le transit grâce au cryptage
