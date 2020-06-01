@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>ENGAGEMENT DE CONFIDENTIALITÉ Bingofoot</p>
+        <p>ENGAGEMENT DE CONFIDENTIALITÉ BINGOFOOT</p>
       </header>
       <section>
         La protection de votre vie privée est importante pour nous. C’est la
