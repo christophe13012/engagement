@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>ENGAGEMENT DE CONFIDENTIALITÉ GOALALA</p>
+        <p>ENGAGEMENT DE CONFIDENTIALITÉ Bingofoot</p>
       </header>
       <section>
         La protection de votre vie privée est importante pour nous. C’est la
@@ -67,14 +67,14 @@ function App() {
         associées à des données personnelles, nous traitons les informations
         ainsi associées comme des données personnelles aux fins du présent
         Engagement de confidentialité.
-        <h3>Divulgation à des tiers</h3> Goalala peut parfois mettre certaines
+        <h3>Divulgation à des tiers</h3> Bingofoot peut parfois mettre certaines
         données personnelles à la disposition de partenaires stratégiques
         travaillant avec nous pour la fourniture de produits et services, ou
-        aidant Goalala à commercialiser ses produits auprès des clients. Les
-        données personnelles sont uniquement partagées par Goalala pour fournir
+        aidant Bingofoot à commercialiser ses produits auprès des clients. Les
+        données personnelles sont uniquement partagées par Bingofoot pour fournir
         ou améliorer des produits, services et publicités ; elles ne sont pas
         partagées avec des tiers à des fins marketing.{" "}
-        <h3>Protection des données personnelles</h3> Goalala prend la sécurité
+        <h3>Protection des données personnelles</h3> Bingofoot prend la sécurité
         de vos données personnelles très au sérieux. Les services en ligne
         protègent vos données personnelles pendant le transit grâce au cryptage
         TLS (Transport Layer Security). Lorsque vos données personnelles sont
