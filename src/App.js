@@ -82,6 +82,11 @@ function App() {
         TLS (Transport Layer Security). Lorsque vos données personnelles sont
         stockées, nous utilisons des systèmes informatiques à accès limité
         installés dans des locaux utilisant des mesures de sécurité physiques.
+        <h3>Suppression de vos données</h3>
+        Chez Bingofoot, nous respectons votre droit de connaître, accéder, 
+        corriger et transférer vos données personnelles, limiter leur traitement et les supprimer.
+        Pour ce faire, merci de nous contacter sur le mail contact@bingofoot.fr et de nous confirmer votre souhait.
+        Apres vérification de concordance sur votre identité, nous accederons à votre demande.
       </section>
     </div>
   );
